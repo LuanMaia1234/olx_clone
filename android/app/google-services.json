@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763224589316",
+    "firebase_url": "https://olxclone-90f1b.firebaseio.com",
+    "project_id": "olxclone-90f1b",
+    "storage_bucket": "olxclone-90f1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763224589316:android:30a5d3142378a914eb6151",
+        "android_client_info": {
+          "package_name": "br.com.maia.olxclone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763224589316-98l88au4v7aqbimvr7b8l116b26g019f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.maia.olxclone",
+            "certificate_hash": "c3894e18ed969daaf1c99010bd34e385d100bebe"
+          }
+        },
+        {
+          "client_id": "763224589316-det4u9nnddhphbtdnbp1s65v126nomfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtCVeyizOn01tpK4B83pjxYELsstKYuZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763224589316-det4u9nnddhphbtdnbp1s65v126nomfi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
